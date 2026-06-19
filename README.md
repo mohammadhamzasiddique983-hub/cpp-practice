@@ -25,7 +25,10 @@ This repository contains my C++ programs and DSA practice.
 ### Searching
 - Linear Search
 - Binary Search
-
+## Strings
+- String Length
+- Count Vowels
+- Reverse String
 ## Author
 Mohammad Hamza
 
