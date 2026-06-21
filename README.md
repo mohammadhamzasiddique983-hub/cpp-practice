@@ -30,6 +30,11 @@ This repository contains my C++ programs and DSA practice.
 - String Length
 - Count Vowels
 - Reverse String
+- Cheak Palindrome String
+- Count Words in a String
+- Convert String to Uppercase
+- Convert String to Lowercase
+- Compare Two Strings
 
 ## Author
 Mohammad Hamza
