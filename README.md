@@ -26,7 +26,7 @@ This repository contains my C++ programs and DSA practice.
 - Linear Search
 - Binary Search
 
-## Strings
+### Strings
 - String Length
 - Count Vowels
 - Reverse String
@@ -35,6 +35,13 @@ This repository contains my C++ programs and DSA practice.
 - Convert String to Uppercase
 - Convert String to Lowercase
 - Compare Two Strings
+
+### Sorting
+- Bubble Sort Ascending
+- Bubble Sort Descending
+- Selection Sort Ascending
+- Selection Sort Descending
+
 
 ## Author
 Mohammad Hamza
