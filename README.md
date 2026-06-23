@@ -41,7 +41,8 @@ This repository contains my C++ programs and DSA practice.
 - Bubble Sort Descending
 - Selection Sort Ascending
 - Selection Sort Descending
-
+- Insertion Sort Ascending
+- Insertion Sort Descending
 
 ## Author
 Mohammad Hamza
