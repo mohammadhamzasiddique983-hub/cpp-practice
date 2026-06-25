@@ -44,6 +44,11 @@ This repository contains my C++ programs and DSA practice.
 - Insertion Sort Ascending
 - Insertion Sort Descending
 
+### Pointers
+- Pointer Address
+- Pointer Value
+- Pointer Example
+
 ## Author
 Mohammad Hamza
 
